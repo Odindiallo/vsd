@@ -1,0 +1,5 @@
+faster-whisper==1.2.1
+pytesseract==0.3.13
+pillow==12.3.0
+ImageHash==4.3.2
+yt-dlp==2026.7.4
