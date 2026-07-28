@@ -11,6 +11,8 @@ VSD is an agent skill that turns a video or raw script into a written system-des
 
 ## Local validation
 
+Use Python 3.12, matching CI:
+
 ```bash
 python -m py_compile scripts/extract_video.py
 python -m unittest discover -s tests -v
